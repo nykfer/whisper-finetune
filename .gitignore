@@ -1,0 +1,6 @@
+data/
+whisper-small-ru*/
+.venv*/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
